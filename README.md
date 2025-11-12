@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:000000,100:000000&amp;text=Hi!%20Welcome%20to%20My%20GitHub!&amp;fontAlign=30&amp;fontAlignY=30&amp;fontColor=ffffff&amp;fontSize=30&amp;desc=ABDELHAFID+%7C+Where+Creative+Solutions+Meet+Clean+Code&amp;descAlign=75&amp;descAlignY=50&amp;descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:000011,100:000000&amp;text=Hi!%20Welcome%20to%20My%20GitHub!&amp;fontAlign=30&amp;fontAlignY=30&amp;fontColor=ffffff&amp;fontSize=30&amp;desc=ABDELHAFID+%7C+Where+Creative+Solutions+Meet+Clean+Code&amp;descAlign=75&amp;descAlignY=50&amp;descSize=15" width="100%" />
 </p>
 
 ## 👋 About Me
