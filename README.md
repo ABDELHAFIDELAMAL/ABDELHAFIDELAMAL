@@ -7,20 +7,20 @@ Hi, I'm **Abdelhafid**, a **Front-End Developer** from El Jadida, Morocco. I spe
 > I'm currently expanding my skills into the back-end with **Node.js, Java, and Spring Boot** and am open to collaborating on interesting projects.
 > You can reach me at: [**ELAMAL.A980@ucd.ac.ma**](mailto:ELAMAL.A980@ucd.ac.ma)
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="TypING SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Core Competencies
 - **Front-End Development:** React, JavaScript, HTML5, CSS3 (Flexbox, Grid, Animations)
-- **Back-End Development (Learning):** Node.js, **Java**, **Spring Boot**
-- **Databases (Learning):** **MySQL**
-- **General Programming:** Python, C
-- **Tools & Version Control:** Git & GitHub, VS Code
+- **Back-End Development (Learning):** Java, Spring Boot, Node.js
+- **Databases (Learning):** MySQL
+- **General Programming:** C++ (OOP), Python (OOP), C (Data Structures)
+- **Tools & Version Control:** Git, GitHub, VS Code, IntelliJ IDEA
 
 ## 💻 My Tech Stack
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,c,git,github,vscode,java,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,java,spring,mysql,python,c,cpp,git,github,vscode,idea" />
 </a>
 </p>
 
@@ -33,18 +33,18 @@ I believe the best way to learn is by building. Here are some of the guides and 
 
 ## 🏆 Notable Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABDELHAFIDELAMAL&amp;theme=gruvbox&amp;no-frame=true&amp;row=1&amp;column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ABDELHAFIDELAMAL&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6" width="100%"/>
 </div>
 
 ## 📊 GitHub Insights
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDELHAFIDELAMAL&amp;theme=gruvbox&amp;hide_border=true" width="48%" valign="top" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDELHAFIDELAMAL&amp;layout=compact&amp;theme=gruvbox&amp;hide_border=true&amp;langs_count=6" width="48%" valign="top" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDELHAFIDELAMAL&amp;theme=radical&amp;hide_border=true" width="48%" valign="top" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDELHAFIDELAMAL&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=6" width="48%" valign="top" />
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDELHAFIDELAMAL&amp;bg_color=0d1117&amp;color=FFBF00&amp;line=FFD700&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;radius=16" width="98%" />
+<img src="httpsT://github-readme-activity-graph.vercel.app/graph?username=ABDELHAFIDELAMAL&amp;bg_color=0d1117&amp;color=FF0000&amp;line=F75C5C&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;radius=16" width="98%" />
 </div>
 
 ## 📬 Let's Connect
@@ -62,5 +62,5 @@ I believe the best way to learn is by building. Here are some of the guides and 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=20&amp;pause=1000&amp;color=FFBF00&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Clean+Code+%26+Creative+Solutions;From+El+Jadida%2C+Morocco" alt="Quote Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=20&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Clean+Code+%26+Creative+Solutions;From+El+Jadida%2C+Morocco" alt="Quote Typing" />
 </div>
