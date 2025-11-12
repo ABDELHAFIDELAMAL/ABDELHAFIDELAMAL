@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 About Me
-Hi, I'm **Abdelhafid**, a **Front-End Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
+Hi, I'm **Abdelhafid**, a **Full Stack Developer** from El Jadida, Morocco. I specialize in building clean, efficient code and have a deep background in **creative problem-solving** to deliver high-quality web applications.
 > I'm currently expanding my skills into the back-end with **Node.js, Java, and Spring Boot** and am open to collaborating on interesting projects.
 > You can reach me at: [**ELAMAL.A980@ucd.ac.ma**](mailto:ELAMAL.A980@ucd.ac.ma)
 <div align="center">
