@@ -7,7 +7,7 @@ Hi, I'm **Abdelhafid**, a **Full Stack Developer** from El Jadida, Morocco. I sp
 > I'm currently expanding my skills into the back-end with **Node.js, Java, and Spring Boot** and am open to collaborating on interesting projects.
 > You can reach me at: [**ELAMAL.A980@ucd.ac.ma**](mailto:ELAMAL.A980@ucd.ac.ma)
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Front-End+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=808080&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Full+Stack+Developer;Creative+Problem-Solver;React+%26+JavaScript+Expert;Always+Learning+Node.js" alt="Typing SVG" />
 </div>
 
 ## 🛠️ Core Competencies
@@ -27,18 +27,18 @@ Hi, I'm **Abdelhafid**, a **Full Stack Developer** from El Jadida, Morocco. I sp
 
 ## 🏆 Notable Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABDELHAFIDELAMAL&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ABDELHAFIDELAMAL&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6" width="100%"/>
 </div>
 
 ## 📊 GitHub Insights
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDELHAFIDELAMAL&amp;theme=radical&amp;hide_border=true" width="48%" valign="top" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDELHAFIDELAMAL&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;langs_count=6" width="48%" valign="top" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDELHAFIDELAMAL&amp;theme=tokyonight&amp;hide_border=true" width="48%" valign="top" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDELHAFIDELAMAL&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" width="48%" valign="top" />
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-<img src="httpsT://github-readme-activity-graph.vercel.app/graph?username=ABDELHAFIDELAMAL&amp;bg_color=0d1117&amp;color=FF0000&amp;line=F75C5C&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;radius=16" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABDELHAFIDELAMAL&amp;bg_color=0d1117&amp;color=808080&amp;line=C0C0C0&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;radius=16" width="98%" />
 </div>
 
 ## 📬 Let's Connect
@@ -56,5 +56,5 @@ Hi, I'm **Abdelhafid**, a **Full Stack Developer** from El Jadida, Morocco. I sp
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=20&amp;pause=1000&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Clean+Code+%26+Creative+Solutions;From+El+Jadida%2C+Morocco" alt="Quote Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;size=20&amp;pause=1000&amp;color=808080&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Clean+Code+%26+Creative+Solutions;From+El+Jadida%2C+Morocco" alt="Quote Typing" />
 </div>
