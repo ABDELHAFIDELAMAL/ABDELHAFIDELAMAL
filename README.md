@@ -24,12 +24,6 @@ Hi, I'm **Abdelhafid**, a **Front-End Developer** from El Jadida, Morocco. I spe
 </a>
 </p>
 
-## 🚀 My Guides & Challenges
-I believe the best way to learn is by building. Here are some of the guides and challenges I've created for other developers.
-* **[Decathlon CSS Challenge](https://github.com/ABDELHAFIDELAMAL/Decathlon-Landing-Page-CSS-Challenge)**: A portfolio-level challenge to recreate a complex store landing page using CSS Grid and Flexbox.
-* **[CSS Animation Challenges](https://github.com/ABDELHAFIDELAMAL/CSS-Animation-Challenges)**: A hands-on practice platform to test your CSS animation and transition skills.
-* **[React Learning Guide](https://github.com/ABDELHAFIDELAMAL/learn-react)**: A complete, single-file guide to React, from components and props to advanced hooks.
-* **[C Language Learning Guide](https://github.com/ABDELHAFIDELAMAL/c-learning-guide)**: A comprehensive guide to C, from "Hello World" to advanced topics like simulating OOP.
 
 ## 🏆 Notable Achievements
 <div align="center">
